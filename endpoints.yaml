@@ -1,0 +1,7 @@
+version: 1.0.0
+name: CardService
+port: 3000
+type: REST
+networkVisibility: Public
+context: /cardservice
+schemaFilePath: ./swagger.yaml
