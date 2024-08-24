@@ -1,0 +1,6 @@
+version: 1.0.0
+component:
+  name: CardService
+  type: nodejs
+  port: 3000
+  context: /cardservice
